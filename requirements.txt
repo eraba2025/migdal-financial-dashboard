@@ -2,4 +2,3 @@ pandas
 openpyxl
 streamlit
 plotly
-pypdf
